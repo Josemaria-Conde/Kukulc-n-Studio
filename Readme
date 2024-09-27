@@ -15,6 +15,7 @@ Proyect FIS.
 - Mauricio Antonio De lázaro Lara
 - Christopher May Paat
 - Juan Angel Canché Góngora
+- Joel Humberto Basto Chavarria
 
 # Requerimientos
 
@@ -26,6 +27,7 @@ Proyect FIS.
 
 - El programa debe de permitir a los usuarios crear un perfil local, en donde, se guarde el progreso, tanto como logros y puntuaciones  previamente obtenidas al jugar.
 - Contará con un algoritmo que modifique la complejidad y diseño del nivel, para que este sea más inmersivo y menos repetitivo.  Funcionando en base a como se desempeñe el usuario en el transcurso del programa.
+- El juego debe permitir al usuario pausar y reanudar la partida en cualquier momento con solo presionar un botón en la pantalla.
 
 # No funcionales
 
@@ -34,5 +36,6 @@ Proyect FIS.
 - El programa debe de ser capaz de soportar elementos del juego mostrados simultáneamente, en este caso, 26 objetos (camiones) sin que el rendimiento sea por debajo de 60 FPS.
 - El programa únicamente se ejecutara en sistemas operativos Android.
 - El programa debe de desempeñarse correctamente con los requerimientos mínimos, es decir, en sistemas (smartphone) con un procesador Qualcomm Snapdragon 765, 2 GB de RAM y que cuenten con 350 MB de almacenamiento.
+- El tiempo de carga inicial del juego no debe exceder los 5 segundos en dispositivos que cumplan con los requisitos mínimos
 
 </div>
