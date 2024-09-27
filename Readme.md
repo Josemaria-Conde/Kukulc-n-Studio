@@ -17,13 +17,15 @@ Proyect FIS.
 - Juan Angel Canché Góngora
 - Joel Humberto Basto Chavarria
 
+# Definición del proyecto
+
 # Requerimientos
 
 # Funcionales
 
-- Para poder acceder completamente a las funciones, se debe inciciar sesión con un usuario y contraseña. De esta manera podremos ayudar a la creación y personalización de perfiles y a la seguridad de la cuenta.
+- RF-001 Para poder acceder completamente a las funciones, se debe inciciar sesión con un usuario y contraseña. De esta manera podremos ayudar a la creación y personalización de perfiles y a la seguridad de la cuenta.
 
-- El juego no contendrá sonidos o imágenes capaces de asustar a los más pequeños. Tampoco contendrá lenguaje inapropiado.
+- RF-002 El juego no contendrá sonidos o imágenes capaces de asustar a los más pequeños. Tampoco contendrá lenguaje inapropiado.
 
 - El programa debe de permitir a los usuarios crear un perfil local, en donde, se guarde el progreso, tanto como logros y puntuaciones  previamente obtenidas al jugar.
 - Contará con un algoritmo que modifique la complejidad y diseño del nivel, para que este sea más inmersivo y menos repetitivo.  Funcionando en base a como se desempeñe el usuario en el transcurso del programa.
@@ -34,7 +36,7 @@ Proyect FIS.
 
 # No funcionales
 
-- La clasificación del juego debe ser para todas las edades "E".
+- RNF-001 La clasificación del juego debe ser para todas las edades "E".
 
 - El programa debe de ser capaz de soportar elementos del juego mostrados simultáneamente, en este caso, 26 objetos (camiones) sin que el rendimiento sea por debajo de 60 FPS.
 - El programa únicamente se ejecutara en sistemas operativos Android.
