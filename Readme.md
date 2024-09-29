@@ -43,7 +43,16 @@ Proyect FIS.
 
 - RF-009: El programa contara con un sistema de horario interno de 24 horas para los niveles, siendo 1 hora en el juego equivalente a 30 segundos en la vida real, es decir que un dia en el juego consta de 12 minutos en la vida real
 
--RF-010: El programa mostrara un apartado llamado Tienda en el cual se podra comprar las diferentes zonas o vehiculos, usando las monedas recolectadas en los niveles
+- RF-010: El programa mostrara un apartado llamado Tienda en el cual se podra comprar las diferentes zonas o vehiculos, usando las monedas recolectadas en los niveles
+
+- RF-011: El juego tendrá una interfaz gráfica que permitirá al usuario navegar entre el perfil, la tienda o la selección de niveles.
+
+- RF-012: El juego contará con un apartado de configuraciones donde podrá modificar el volumen de la música y efectos de sonido.
+
+- RF-013: El juego contará con música y efectos de sonido que se reproduciran durante su partida.  
+ 
+- RF-014: El usuario podrá agregar como amigos a otros usuarios que tengan creado un perfil dentro del juego. 
+
 
 # No funcionales
 
@@ -64,5 +73,13 @@ Proyect FIS.
 - RNF-008: El programa debe adaptarse a diferentes tamaños de pantalla y resoluciones, garantizando una experiencia optima tanto en smarphones de gama baja como en tablets de mayor capacidad.
 
 - RNF-009: El programa contara con actualizaciones en un plazo de tiempo medio, siendo aproximadamente de 1 a 3 meses, variando en la cantidad cambios que se hagan, como la solucion a futuros errores que se puedan presentar como nuevo contenido para el juego.
+
+- RNF-010: La interfaz gráfica de usuario deberá estar adaptada para uso táctil. 
+
+- RNF-011: El juego permitirá agregar como amigos a un máximo de 25 perfiles. 
+
+- RNF-012: El juego no contará con microtransacciones a través de la aplicación.
+
+- RNF-013: El juego será compatible con versiones de Sistema Operativo Android 6.0 y posteriores.
 
 </div>
