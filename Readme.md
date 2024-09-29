@@ -85,7 +85,7 @@ Proyect FIS.
 
 - RNF-013: El juego será compatible con versiones de Sistema Operativo Android 6.0 y posteriores.
 
--RNF-014: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
+- RNF-014: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
 
--Rnf-015: El juego no debera de necesitar internet para inicalizar.
+- Rnf-015: El juego no debera de necesitar internet para inicalizar.
 </div>
