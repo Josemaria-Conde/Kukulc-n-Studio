@@ -19,8 +19,7 @@ Proyect FIS.
 - Oswaldo Castillo Machado
 
 # Definición del proyecto
-- El proyecto es un videojuego donde el usuario asume el rol de un conductor de camiones y debe crear rutas eficientes a través de diversos mapas, enfrentando los obstáculos que aparezcan en su día a día
-
+- El proyecto es un videojuego del género de administración y estrategia donde se administran las rutas del sistema de transporte Metropolitano permitiendo así al jugador tomar decisiones sobre el funcionamiento de las rutas y las unidades para conseguir mantener la mayor satisfacción posible de los usuarios Durante los niveles o fases y utilizar la divisa de satisfacción para mejorar sus unidades
 # Requerimientos
 
 # Funcionales
