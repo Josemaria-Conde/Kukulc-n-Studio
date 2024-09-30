@@ -52,9 +52,6 @@ Proyect FIS.
  
 - RF-014: El usuario podrá agregar como amigos a otros usuarios que tengan creado un perfil dentro del juego.
 
-- RF-015: El programa permitira cambiar el color del fondo entre blanco, gris y negro.
-
-- RF-016: El juego contara con un apartado donde se puedan consultar las estadisticas del jugador (partidas totale, partidas jugadas, horas de juego, monedas totales recolectadas)
 
 # No funcionales
 
@@ -84,7 +81,4 @@ Proyect FIS.
 
 - RNF-013: El juego será compatible con versiones de Sistema Operativo Android 6.0 y posteriores.
 
-- RNF-014: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
-
-- Rnf-015: El juego no debera de necesitar internet para inicalizar.
 </div>
