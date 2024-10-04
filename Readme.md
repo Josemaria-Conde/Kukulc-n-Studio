@@ -56,6 +56,10 @@ Proyect FIS.
 
 - RF-016: El juego contara con un apartado donde se puedan consultar las estadisticas del jugador (partidas totale, partidas jugadas, horas de juego, monedas totales recolectadas)
 
+- RF-017: El juego debe permitir al usuario reiniciar un nivel en cualquier momento desde el menú de pausa, para que pueda intentarlo de nuevo sin necesidad de salir al menú principal.
+
+- RF-018: El juego debe incluir una opción para restablecer la configuración predeterminada en el menú de ajustes, permitiendo al usuario volver a los valores originales de sonido y brillo fácilmente.
+
 # No funcionales
 
 - RNF-001: La clasificación del juego debe ser para todas las edades "E".
@@ -87,4 +91,8 @@ Proyect FIS.
 - RNF-014: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
 
 - Rnf-015: El juego no debera de necesitar internet para inicalizar.
+
+- RNF-016: El juego debe poder activar o desactivar la música y efectos de sonido desde el menú de configuración.
+
+- RNF-017: El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz. 
 </div>
