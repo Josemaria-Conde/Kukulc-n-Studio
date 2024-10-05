@@ -33,7 +33,7 @@ RNF-000    | Hace referencia a un requerimiento no funcional y en qué orden est
 NPC| Personaje no jugable. | 
 UML | Lenguaje Unificado de Modelado. | 
 
-**Audiencia objetivo y sugerencias de lectura**
+**Audiencia objetivo y sugerencias de lectura**.
 Este documento está dirigido a desarrolladores involucrados en la creación del videojuego de administración y estrategia basado en el sistema de transporte metropolitano Va y Ven, así como a desarrolladores externos que deseen conocer más sobre el proyecto. Además, también está destinado al público en general que busque una comprensión más profunda de las características y objetivos del juego. Para los desarrolladores se sugiere leer la parte de requerimientos y diagramas UML y C4, para saber sobre la arquitectura y funcionamiento del videojuego. Para el público en general, leer este apartado de introducción y requerimientos.
 
 **Objetivos**
