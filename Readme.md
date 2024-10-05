@@ -75,11 +75,17 @@ Este documento está dirigido a desarrolladores involucrados en la creación del
 El videojuego pertenece al género de administración y estrategia, en el que se gestionan las rutas del sistema de transporte metropolitano "Va y Ven". El jugador toma decisiones sobre el funcionamiento de las rutas y las unidades de transporte con el objetivo de mantener la mayor satisfacción posible de los personajes no jugables (NPCs) durante los niveles o fases del juego. Este sistema se centra en la toma de decisiones estratégicas, permitiendo al jugador utilizar la divisa de satisfacción generada por los NPCs para mejorar su estrategia. Las decisiones del jugador impactarán directamente en el funcionamiento de las rutas, la eficiencia del transporte y la experiencia general de los pasajeros virtuales. El proyecto busca ofrecer una experiencia de juego que combine la complejidad de la gestión de un sistema de transporte con una jugabilidad accesible y entretenida.
 
 **Perspectiva del producto**
+
 **Características del producto**
+
 **Clases y características del usuario**
+
 **Ambiente de operación**
+
 **Restricciones de diseño e implementación**
+
 **Documentación del usario**
+
 **Suposiciones y dependencias**
 
 
