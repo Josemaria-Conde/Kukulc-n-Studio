@@ -21,6 +21,7 @@ Proyect FIS.
 # Introducción
 
 **Propósito**
+
 Su propósito es ser un servicio de entretenimiento para sus jugadores. El sistema de transporte Va y Ven en la ciudad de Mérida Yucatán es muy conocido y querido por la ciudadanía, hoy en día existen muchos videojuegos que tienen el concepto del Va y Ven como principal atractivo. Hasta el momento los juegos que se han lanzado son principalmente del género "simulador" donde el usuario simula ser conductor del vehículo y recorre las calles de Mérida. Este proyecto ofrece un estilo diferente de jugabilidad, que busca satisfacer a otro tipo de jugadores los cuales se inclinan por el género de administración y estrategia.
 
 **Convenciones del documento** 
@@ -34,6 +35,7 @@ NPC| Personaje no jugable. |
 UML | Lenguaje Unificado de Modelado. | 
 
 **Audiencia objetivo y sugerencias de lectura**
+
 Este documento está dirigido a desarrolladores involucrados en la creación del videojuego de administración y estrategia basado en el sistema de transporte metropolitano Va y Ven, así como a desarrolladores externos que deseen conocer más sobre el proyecto. Además, también está destinado al público en general que busque una comprensión más profunda de las características y objetivos del juego. Para los desarrolladores se sugiere leer la parte de requerimientos y diagramas UML y C4, para saber sobre la arquitectura y funcionamiento del videojuego. Para el público en general, leer este apartado de introducción y requerimientos.
 
 **Objetivos**
@@ -48,7 +50,9 @@ Este documento está dirigido a desarrolladores involucrados en la creación del
 - Mostrar los NPCs y que puedan subir y bajar del camión.
 
 **Alcance del proyecto**
+
 **Tareas(elementos dentro del alcance)**
+
 - Gestión de rutas: Los jugadores podrán tomar decisiones sobre la asignación y optimización de las rutas del sistema Va y Ven, asegurando que las unidades de transporte funcionen de manera eficiente y satisfagan las necesidades de los personajes no jugables (NPCs) durante cada nivel.
 - Gestión de camiones: El juego incluirá diferentes tipos de camiones los cuales se irán desbloqueando mientras se sube de nivel, cada unidad tendrá una velocidad específica, una capacidad de personas y cierta energía para funcionar.
 - Interacción de pasajeros: Los pasajeros que serán NPCs servirán como método de validación para la efectividad de las rutas y las unidades que se estén usando, habrá diferentes tipos de pasajeros y cada uno tendrá una ruta específica. Además, contarán con las acciones de subir y bajar del camión.
@@ -72,6 +76,7 @@ Este documento está dirigido a desarrolladores involucrados en la creación del
 # Descripción del proyecto
 
 **Descripción general** 
+
 El videojuego pertenece al género de administración y estrategia, en el que se gestionan las rutas del sistema de transporte metropolitano "Va y Ven". El jugador toma decisiones sobre el funcionamiento de las rutas y las unidades de transporte con el objetivo de mantener la mayor satisfacción posible de los personajes no jugables (NPCs) durante los niveles o fases del juego. Este sistema se centra en la toma de decisiones estratégicas, permitiendo al jugador utilizar la divisa de satisfacción generada por los NPCs para mejorar su estrategia. Las decisiones del jugador impactarán directamente en el funcionamiento de las rutas, la eficiencia del transporte y la experiencia general de los pasajeros virtuales. El proyecto busca ofrecer una experiencia de juego que combine la complejidad de la gestión de un sistema de transporte con una jugabilidad accesible y entretenida.
 
 **Perspectiva del producto**
