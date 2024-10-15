@@ -134,6 +134,8 @@ El videojuego pertenece al género de administración y estrategia, en el que se
 
 - RF-018: El juego debe incluir una opción para restablecer la configuración predeterminada en el menú de ajustes, permitiendo al usuario volver a los valores originales de sonido y brillo fácilmente.
 
+- RF-019: En caso de no contar con una cuenta, el usario deberá registrarse para así poder incicar sesión y acceder completamente a las funciones.
+
 # No funcionales
 
 - RNF-001: La clasificación del juego debe ser para todas las edades "E".
