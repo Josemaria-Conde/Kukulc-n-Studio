@@ -167,10 +167,6 @@ Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad 
 
 - RNF-010: La interfaz gráfica de usuario deberá estar adaptada para uso táctil. 
 
-- RNF-011: El juego permitirá agregar como amigos a un máximo de 25 perfiles. 
-
-- RNF-012: El juego no contará con microtransacciones a través de la aplicación.
-
 - RNF-013: El juego será compatible con versiones de Sistema Operativo Android 6.0 y posteriores.
 
 - RNF-014: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
