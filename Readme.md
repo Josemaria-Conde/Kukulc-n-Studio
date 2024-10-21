@@ -151,7 +151,7 @@ Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad 
 
 - RNF-002: El programa debe de ser capaz de soportar elementos del juego mostrados simultáneamente, en este caso, 26 objetos (camiones) sin que el rendimiento sea por debajo de 60 FPS.
 
-- RNF-003: El programa debe de desempeñarse correctamente con los requerimientos recomendados, es decir, en sistemas (smartphone) con un procesador Qualcomm Snapdragon 765, 2 GB de RAM y que cuenten con 350 MB de almacenamiento.
+- RNF-003: El programa debe ejecutarse correctamente en dispositivos móviles con procesador Qualcomm Snapdragon 765, al menos 2 GB de RAM y un mínimo de 350 MB de almacenamiento disponible.
 
 - RNF-004: El tiempo de carga inicial del juego no debe exceder los 5 segundos en dispositivos que cumplan con los requisitos mínimos
 
