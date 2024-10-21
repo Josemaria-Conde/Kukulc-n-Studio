@@ -174,4 +174,5 @@ Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad 
 - RNF-013: El juego debe poder activar o desactivar la música y efectos de sonido desde el menú de configuración.
 
 - RNF-014: El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz. 
+
 </div>
