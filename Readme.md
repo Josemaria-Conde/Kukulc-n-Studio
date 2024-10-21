@@ -173,5 +173,5 @@ Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad 
 
 - Rnf-015: El juego no debera de necesitar internet para inicalizar.
 
-- RNF-017: El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz. 
+- RNF-016: El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz. 
 </div>
