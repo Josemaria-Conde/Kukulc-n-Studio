@@ -151,28 +151,27 @@ Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad 
 
 - RNF-002: El programa debe de ser capaz de soportar elementos del juego mostrados simultáneamente, en este caso, 26 objetos (camiones) sin que el rendimiento sea por debajo de 60 FPS.
 
-- RNF-003: El programa debe de desempeñarse correctamente con los requerimientos recomendados, es decir, en sistemas (smartphone) con un procesador Qualcomm Snapdragon 765, 2 GB de RAM y que cuenten con 350 MB de almacenamiento.
+- RNF-004: El programa debe ejecutarse correctamente en dispositivos móviles con procesador Qualcomm Snapdragon 765, al menos 2 GB de RAM y un mínimo de 350 MB de almacenamiento disponible.
 
-- RNF-004: El tiempo de carga inicial del juego no debe exceder los 5 segundos en dispositivos que cumplan con los requisitos mínimos
+- RNF-005: El tiempo de carga inicial del juego no debe exceder los 5 segundos en dispositivos que cumplan con los requisitos mínimos
 
-- RNF-005: El programa debe ser capaz de ejecutarse en varios idiomas, siendo los principales español e inglés, pero con opción de agregar otros idiomas en el futuro.
+- RNF-006: El programa debe ser capaz de ejecutarse en varios idiomas, siendo los principales español e inglés, pero con opción de agregar otros idiomas en el futuro.
 
-- RNF-006: La información del usuario, como credenciales y progreso en el juego, debe estar protegida mediante encriptación, garantizando la seguridad y privacidad.
+- RNF-007: La información del usuario, como credenciales y progreso en el juego, debe estar protegida mediante encriptación, garantizando la seguridad y privacidad.
 
-- RNF-007: El programa debe adaptarse a diferentes tamaños de pantalla y resoluciones, garantizando una experiencia optima tanto en smarphones de gama baja como en tablets de mayor capacidad.
+- RNF-008: El programa debe adaptarse a diferentes tamaños de pantalla y resoluciones, garantizando una experiencia optima tanto en smarphones de gama baja como en tablets de mayor capacidad.
 
-- RNF-008: El programa contara con actualizaciones en un plazo de tiempo medio, siendo aproximadamente de 1 a 3 meses, variando en la cantidad cambios que se hagan, como la solucion a futuros errores que se puedan presentar como nuevo contenido para el juego.
+- RNF-009: El programa contara con actualizaciones en un plazo de tiempo medio, siendo aproximadamente de 1 a 3 meses, variando en la cantidad cambios que se hagan, como la solucion a futuros errores que se puedan presentar como nuevo contenido para el juego.
 
-- RNF-009: La interfaz gráfica de usuario deberá estar adaptada para uso táctil. 
+- RNF-010: La interfaz gráfica de usuario deberá estar adaptada para uso táctil. 
 
-- RNF-010: El juego será compatible con versiones de Sistema Operativo Android 6.0 y posteriores.
+- RNF-013: El juego será compatible con versiones de Sistema Operativo Android 6.0 y posteriores.
 
-- RNF-011: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
+- RNF-014: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
 
-- Rnf-012: El juego no debera de necesitar internet para inicalizar.
+- Rnf-015: El juego no debera de necesitar internet para inicalizar.
 
-- RNF-013: El juego debe poder activar o desactivar la música y efectos de sonido desde el menú de configuración.
+- RNF-016: El juego debe poder activar o desactivar la música y efectos de sonido desde el menú de configuración.
 
-- RNF-014: El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz. 
-
+- RNF-017: El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz. 
 </div>
