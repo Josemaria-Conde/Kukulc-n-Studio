@@ -3,7 +3,9 @@
 EXPLICACION DIAGRAMA UML
   
 </h1>
+
 ![Diagrama UML](/images/DiagramaJoelBasto.drawio.png)
+
 1. USUARIO
 La entidad Usuario se encarga de la autenticación y gestión de las cuentas en el juego. Permite que los jugadores se registren, inicien sesión y gestionen sus perfiles. Almacena información básica como el nombre de usuario, contraseña y edad, así como una lista de amigos. Está relacionada con Perfil porque un usuario puede tener varios perfiles, cada uno con diferentes progresos en el juego. Esta relación es importante porque un mismo jugador puede querer tener múltiples partidas guardadas o diferentes configuraciones según el perfil. Esta entidad es clave para el RF-001 (gestión de sesión) y RF-019 (registro de usuarios), ya que permite la creación y autenticación de cuentas. También es necesaria para poder gestionar varios perfiles y amigos dentro del juego, lo cual promueve la interacción social.
 
