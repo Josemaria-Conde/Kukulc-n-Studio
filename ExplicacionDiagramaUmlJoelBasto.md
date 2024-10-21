@@ -1,3 +1,4 @@
+EXPLICACION DIAGRAMA UML
 1. Usuario
 La tabla Usuario se usa para manejar la autenticación y la gestión de cuentas. Esto cumple con los requerimientos RF-001 y RF-019, que especifican que un jugador debe iniciar sesión con usuario y contraseña y registrarse si no tiene cuenta. La relación con Perfil permite que un usuario tenga múltiples perfiles, lo que se necesita para manejar diferentes progresos de juego si el lo desea.
 
