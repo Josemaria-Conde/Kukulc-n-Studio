@@ -36,3 +36,14 @@ El siguiente diagrama de clases presenta el funcionamiento del sistema.
 - **Relación con Usuario:** Un Usuario puede tener múltiples Perfiles, lo cual le permite llevar distintos progresos (ejemplo: distintos modos de juego o diferentes niveles de dificultad).
 - **Relación con Rutas, Camiones y Mapas:** El progreso almacenado en el perfil está relacionado con los Camiones adquiridos, las Rutas completadas, y los Mapas desbloqueados (RF-020, RF-021, RF-023).
 - **Operaciones:** Acumula logros, monedas y muestra las estadísticas del jugador (RF-003, RF-016).
+
+### 3. Tienda
+**Entidad:** Tienda  
+
+**Requisitos Relacionados:**
+- **RF-010:** Permitir la compra de camiones con monedas recolectadas.
+- **RF-006:** Sistema de recompensas para obtener monedas.
+
+**Justificación:**
+- **Relación con Camiones:** En la Tienda, los jugadores pueden adquirir Camiones, restringidos por el nivel del perfil y las monedas recolectadas (RF-010, RF-006).
+- **Operaciones:** Métodos para verificar fondos suficientes y mostrar camiones disponibles según el nivel del jugador.
