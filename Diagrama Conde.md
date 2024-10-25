@@ -1,6 +1,5 @@
 # Diagrama de clases UML por Josemaría Conde Chabarría
-
-![Diagrama UML](images/Conde UML Entidades.png)
+  ![](<images/Conde UML Entidades.png>)
 # Descripción
 
 Las distintas entidades presentes en el juego siguen un orden casi jerárquico para el desempeño de sus roles, con el propósito de que el jugador pueda, dentro de los parámetros establecidos en los siguientes requisitos funcionales, modificar los componentes para diseñar las rutas así como los camiones que las recorrerán :
