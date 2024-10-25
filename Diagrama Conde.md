@@ -1,7 +1,6 @@
 # Diagrama de clases UML por Josemaría Conde Chabarría
 
-![Diagrama UML](/images/Conde UML Entidades.png)
-
+![](/images/Conde UML Entidades.png)
 
 # Descripción
 
