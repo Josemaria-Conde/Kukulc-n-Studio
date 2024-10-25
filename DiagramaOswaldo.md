@@ -1,4 +1,3 @@
-<h1 align="center">
 
 Explicacion Diagrama Oswaldo 
 
