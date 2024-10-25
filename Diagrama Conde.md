@@ -1,6 +1,8 @@
+# Diagrama de clases UML por José Luis Basulto Cámara
 
+![Diagrama UML](/images/Conde UML Entidades.png)
 
-#Descripción
+# Descripción
 
 Las distintas entidades presentes en el juego siguen un orden casi jerárquico para el desempeño de sus roles, con el propósito de que el jugador pueda, dentro de los parámetros establecidos en los siguientes requisitos funcionales, modificar los componentes para diseñar las rutas así como los camiones que las recorrerán :
 RF-007: El usuario podrá seleccionar entre distintas zonas del mapa para completar rutas, obteniendo recompensas o puntos de experiencia al finalizar con éxito.
