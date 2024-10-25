@@ -71,3 +71,47 @@ El siguiente diagrama de clases presenta el funcionamiento del sistema.
 - **Relación con Perfil:** Los **Logros** están asociados a un **Perfil** y se obtienen cuando el jugador alcanza ciertas metas, lo cual afecta su progreso y estadísticas (**RF-003**, **RF-016**).
 - **Relación con Recompensas:** Algunos **Logros** pueden otorgar recompensas como monedas o puntos, lo cual puede influir en las compras dentro del juego (**RF-006**).
 - **Operaciones:** Métodos como `desbloquearLogro()`, `verificarProgresoLogro()` y `mostrarLogros()` permiten gestionar y mostrar los logros alcanzados por el jugador.
+
+### 6. Mapas
+**Entidad:** Mapas
+
+**Requisitos Relacionados:**
+- **RF-007:** Selección de zonas del mapa para completar rutas.
+- **RF-023:** Cada mapa tiene rutas y se desbloquea a medida que el jugador sube de nivel.
+
+**Justificación:**
+- **Relación con Rutas:** Un Mapa agrupa diferentes Rutas que los jugadores pueden completar, y se desbloquean nuevos mapas a medida que el jugador progresa (RF-023).
+- **Operaciones:** Los mapas incluyen métodos para ajustar la dificultad y generar nuevas rutas a medida que el jugador avanza.
+
+### 7. Pasajeros
+**Entidad:** Pasajeros
+	
+**Requisitos Relacionados:**
+- **RF-022:** Los pasajeros son NPCs que utilizan los camiones y tienen diferentes tipos, tarifas y destinos.
+
+**Justificación:**
+- **Relación con Camiones y Rutas:** Los Pasajeros viajan en Camiones a lo largo de las Rutas, y las tarifas varían según el tipo de pasajero (RF-022).
+- **Operaciones:** La entidad Pasajero maneja aspectos como la satisfacción, el destino, y la tarifa de cada pasajero, lo cual afecta las recompensas del jugador.
+
+### 8. Tienda
+- **Entidad:** Tienda
+
+**Requisitos Relacionados:**
+- **RF-010:** Permitir la compra de camiones con monedas recolectadas.
+- **RF-006:** Sistema de recompensas para obtener monedas.
+
+**Justificación:**
+- **Relación con Camiones:** En la Tienda, los jugadores pueden adquirir Camiones, y el acceso a ellos está restringido por el nivel del perfil y las monedas recolectadas (RF-010, RF-006).
+- **Operaciones:** La Tienda incluye métodos para verificar los fondos suficientes y mostrar los camiones disponibles según el nivel del jugador.
+
+### 9. Interfaz
+- **Entidad:** Interfaz
+
+**Requisitos Relacionados:**
+- **RF-005:** Permitir al jugador pausar y reanudar el juego.
+- **RF-011:** Gestión de la interfaz gráfica para mostrar perfiles, mapas, rutas, camiones, etc.
+- **RNF-010:** Interfaz adaptada para pantallas táctiles.
+
+**Justificación:**
+- **Relación con todas las entidades:** A través de la Interfaz, el jugador interactúa con todas las demás entidades (perfil, rutas, camiones, mapas, pasajeros, tienda, configuración).
+- **Operaciones:** La interfaz incluye funcionalidades clave como mostrar el estado del juego, acceder a la tienda, pausar y reanudar el juego (RF-005, RF-011).
