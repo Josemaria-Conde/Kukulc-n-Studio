@@ -23,3 +23,16 @@ El siguiente diagrama de clases presenta el funcionamiento del sistema.
 **Justificación:**
 - **Relación con Perfil:** Un Usuario puede tener múltiples Perfiles para gestionar diferentes partidas guardadas. (1 usuario puede tener muchos perfiles, y un perfil pertenece a un solo usuario).
 - **Operaciones:** Métodos como `crearCuenta()`, `iniciarSesion()`, `cerrarSesion()` y `verificarLogin()` cumplen con RF-001 y RF-019, garantizando la seguridad mediante la encriptación de contraseñas (RNF-007).
+
+### 2. Perfil
+**Entidad:** Perfil  
+
+**Requisitos Relacionados:**
+- **RF-003:** Creación de un perfil local que guarde el progreso.
+- **RF-014:** Posibilidad de agregar amigos.
+- **RF-016:** Consulta de estadísticas del jugador.
+
+**Justificación:**
+- **Relación con Usuario:** Un Usuario puede tener múltiples Perfiles, lo cual le permite llevar distintos progresos (ejemplo: distintos modos de juego o diferentes niveles de dificultad).
+- **Relación con Rutas, Camiones y Mapas:** El progreso almacenado en el perfil está relacionado con los Camiones adquiridos, las Rutas completadas, y los Mapas desbloqueados (RF-020, RF-021, RF-023).
+- **Operaciones:** Acumula logros, monedas y muestra las estadísticas del jugador (RF-003, RF-016).
