@@ -1,5 +1,3 @@
-<h1 align="center">
-
 Explicacion Diagrama Oswaldo 
 
 1. Este diagrama busca expresar el proceso y relacion que tendra el apartado tienda en el videojuego
