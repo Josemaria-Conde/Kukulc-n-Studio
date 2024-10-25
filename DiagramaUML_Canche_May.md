@@ -47,3 +47,14 @@ El siguiente diagrama de clases presenta el funcionamiento del sistema.
 **Justificación:**
 - **Relación con Camiones:** En la Tienda, los jugadores pueden adquirir Camiones, restringidos por el nivel del perfil y las monedas recolectadas (RF-010, RF-006).
 - **Operaciones:** Métodos para verificar fondos suficientes y mostrar camiones disponibles según el nivel del jugador.
+
+### 4. Dificultad
+**Entidad:** Dificultad  
+
+**Requisitos Relacionados:**
+- **RF-004:** Algoritmo de complejidad ajustado al desempeño del usuario.
+- **RF-009:** Sistema de horario interno que afecta la dificultad y experiencia del juego.
+
+**Justificación:**
+- **Relación con Mapas y Rutas:** La **Dificultad** varía en función del desempeño del jugador y se ajusta para mantener el juego interesante y desafiante (**RF-004**).
+- **Operaciones:** Métodos como `ajustarDificultad()` y `obtenerNivelActual()` permiten gestionar el nivel de dificultad dinámico.
