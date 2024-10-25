@@ -58,3 +58,16 @@ El siguiente diagrama de clases presenta el funcionamiento del sistema.
 **Justificación:**
 - **Relación con Mapas y Rutas:** La **Dificultad** varía en función del desempeño del jugador y se ajusta para mantener el juego interesante y desafiante (**RF-004**).
 - **Operaciones:** Métodos como `ajustarDificultad()` y `obtenerNivelActual()` permiten gestionar el nivel de dificultad dinámico.
+
+### 5. Logros
+**Entidad:** Logros  
+
+**Requisitos Relacionados:**
+- **RF-003:** Registro de logros obtenidos por el jugador.
+- **RF-016:** Consulta de estadísticas del jugador, incluyendo logros.
+- **RF-006:** Los logros pueden estar relacionados con recompensas en el sistema de monedas o puntos.
+
+**Justificación:**
+- **Relación con Perfil:** Los **Logros** están asociados a un **Perfil** y se obtienen cuando el jugador alcanza ciertas metas, lo cual afecta su progreso y estadísticas (**RF-003**, **RF-016**).
+- **Relación con Recompensas:** Algunos **Logros** pueden otorgar recompensas como monedas o puntos, lo cual puede influir en las compras dentro del juego (**RF-006**).
+- **Operaciones:** Métodos como `desbloquearLogro()`, `verificarProgresoLogro()` y `mostrarLogros()` permiten gestionar y mostrar los logros alcanzados por el jugador.
