@@ -118,7 +118,7 @@ El videojuego pertenece al género de administración y estrategia, en el que se
 
 - RF-010: El programa mostrara un apartado llamado Tienda en el cual se podra comprar los diferentes vehiculos, usando las monedas recolectadas en los niveles. Se le mostrará al usuario los camiones, pero solo podrá comprar los camiones a los que tenga acceso por su nivel.
 
-- RF-011: El juego tendrá una interfaz gráfica que se encargará de todo lo visual, mostrar el perfil, los mapas, rutas en los mapas, los camiones que estan en las rutas, los pasajeros, la tienda, etc. 
+- RF-011: El juego tendrá una interfaz gráfica que se encargará de todo lo visual, mostrar el perfil, los mapas, rutas en los mapas, los camiones que estan en las rutas, los pasajeros, la tienda, una barra de busqueda, etc. 
 
 - RF-012: El juego contará con un apartado de configuraciones donde podrá modificar el volumen de la música, el nivel del sonido, el idioma, etc.
 
@@ -144,6 +144,8 @@ Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad 
 - RF-022: Los pasajeros serán NPCs y harán uso de los camiones, estos pueden ser de diferentes tipos, por ejemplo, discapacitado, estudiante o general. Dependiendo del tipo, tendrá una tarifa diferente en el camióm. Cada pasajero tendrá una ruta, destino y parada en concreto.
 
 - RF-023: Los mapas deben tener un nombre para su identifación, cada mapa debe tener rutas y un límite para ello, así como música de ambientación. Los mapas dependerán del nivel del perfil, mientras se suba de nivel, se desbloquearán los mapas.
+
+- RF-024: El color predeterminado de la interfaz debe ser verde con blanco.
 
 # No funcionales
 
