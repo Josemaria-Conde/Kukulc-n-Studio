@@ -98,7 +98,7 @@ El videojuego pertenece al género de administración y estrategia, en el que se
 
 # Funcionales
 
-- RF-001: Para poder acceder completamente a las funciones, se debe iniciar sesión con un usuario y contraseña. De esta manera podremos ayudar a la creación y personalización de perfiles y a la seguridad de la cuenta.
+- RF-001: El usurio puede iniciar sesión con un usuario y contraseña. De esta manera podremos ayudar a la creación y personalización de perfiles y a la seguridad de la cuenta.
 
 - RF-002: El juego no contendrá sonidos o imágenes capaces de asustar a los más pequeños. Tampoco contendrá lenguaje inapropiado, es decir, lo que se mostrará dentro de la aplicación deberá contener un lenguaje sano para todas las edades, esto involucra: texto en la interfaz, texto de los personajes no jugables (NPCs), etc.
 
@@ -139,13 +139,13 @@ El videojuego pertenece al género de administración y estrategia, en el que se
 - RF-020: El juego debe tener diferentes tipos de camiones, por ejemplo, a gasolina, eléctricos, híbridos, etc.
 Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad específica y un límite de capacidad.
 
-- RF-021: Las rutas tendrán una distancia (cuánto recorre esa ruta), un nombre, horario, paradas, camiones y de ellas se obtendran monedas. Cada que ingrese un pasajero obtendrá monedas a través de la tarifa y las rutas tienen un límite de camiones.
+- RF-021: Las rutas tendrán una distancia (cuánto recorre esa ruta), un nombre, horario, paradas, camiones, color y de ellas se obtendran monedas. Cada que ingrese un pasajero obtendrá monedas a través de la tarifa y las rutas tienen un límite de camiones.
 
 - RF-022: Los pasajeros serán NPCs y harán uso de los camiones, estos pueden ser de diferentes tipos, por ejemplo, discapacitado, estudiante o general. Dependiendo del tipo, tendrá una tarifa diferente en el camióm. Cada pasajero tendrá una ruta, destino y parada en concreto.
 
 - RF-023: Los mapas deben tener un nombre para su identifación, cada mapa debe tener rutas y un límite para ello, así como música de ambientación. Los mapas dependerán del nivel del perfil, mientras se suba de nivel, se desbloquearán los mapas.
 
-- RF-024: El color predeterminado de la interfaz debe ser verde con blanco.
+- RF-024: El color base de la interfaz del juego debe ser azul "1E90FF" para el modo normal y para el modo oscuro debe ser azul "1A5276".
 
 # No funcionales
 
