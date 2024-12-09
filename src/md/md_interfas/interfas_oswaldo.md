@@ -19,7 +19,7 @@
 
 
 **Mapa de dia con los niveles completados**
-![Mapa de dia con los niveles completados](/src/assets/images/interfas/interfas_oswaldo/ESP_mapaNoche_nivelescompletados.png)
+![Mapa de dia con los niveles completados](/src/assets/images/interfas/interfas_oswaldo/ESP_mapaDia_nivelescompletados.png)
 
 
 
