@@ -1,5 +1,7 @@
 # Interfaz de perfil
 
+Link: https://www.figma.com/design/cfmm0dbLZXsMQTR5gQaXTA/Perfil?m=auto&t=vvSyglim3CaUm9S0-1
+
 ## Descripción 
 
 Para la realización del perfil se tuvieron en cuenta los siguientes requisitos:
