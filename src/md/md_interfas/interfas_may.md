@@ -17,6 +17,7 @@ Para asegurar un uso accesible, se incluyeron dos idiomas disponibles (español 
 - **RNF-017:** El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz.
 
 ## Previsualización
+**Link:** https://www.figma.com/design/Io6TdInJbGe4ZZFTxroOEo/UI_Final?node-id=171-262&t=va4V9uE8glvDEZ19-1
 ### Modo Claro - Inglés
 ![LightMode-En](../../assets/images/interfas/interfas_may/LightMode-En.jpg)
 ### Modo Oscuro - Inglés
