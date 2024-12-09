@@ -18,18 +18,18 @@ Para asegurar un uso accesible, se incluyeron dos idiomas disponibles (español 
 
 ## Previsualización
 ### Modo Claro - Inglés
-![LightMode-En](/src\assets\images\interfas\interfas_may\LightMode-En.jpg)
+![LightMode-En](../../assets/images/interfas/interfas_may/LightMode-En.jpg)
 ### Modo Oscuro - Inglés
-![DarkMode-En](/src\assets\images\interfas\interfas_may\DarkMode-En.jpg)
+![DarkMode-En](../../assets/images/interfas/interfas_may/DarkMode-En.jpg)
 ### Modo Claro - Español
-![LightMode-Es](/src\assets\images\interfas\interfas_may\LightMode-Es.jpg)
+![LightMode-Es](../../assets/images/interfas/interfas_may/LightMode-Es.jpg)
 ### Modo Oscuro - Español
-![DarkMode-Es](/src\assets\images\interfas\interfas_may\DarkMode-Es.jpg)
+![DarkMode-Es](../../assets/images/interfas/interfas_may/DarkMode-Es.jpg)
 ### Configuración Guardada - Modo Claro (Inglés)
-![SavedLight-En](/src\assets\images\interfas\interfas_may\SavedLight-En.jpg)
+![SavedLight-En](../../assets/images/interfas/interfas_may/SavedLight-En.jpg)
 ### Configuración Guardada - Modo Oscuro (Inglés)
-![SavedDark-En](/src\assets\images\interfas\interfas_may\SavedDark-En.jpg)
+![SavedDark-En](../../assets/images/interfas/interfas_may/SavedDark-En.jpg)
 ### Configuración Guardada - Modo Claro (Español)
-![SavedLight-Es](/src\assets\images\interfas\interfas_may\SavedLight-Es.jpg)
+![SavedLight-Es](../../assets/images/interfas/interfas_may/SavedLight-Es.jpg)
 ### Configuración Guardada - Modo Oscuro (Español)
-![SavedDark-Es](/src\assets\images\interfas\interfas_may\SavedDark-Es.jpg)
+![SavedDark-Es](../../assets/images/interfas/interfas_may/SavedDark-Es.jpg)
