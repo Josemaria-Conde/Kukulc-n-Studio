@@ -33,6 +33,7 @@ RF-000   | Hace referencia a un requerimiento funcional y en qué orden está.  
 RNF-000    | Hace referencia a un requerimiento no funcional y en qué orden está.    |
 NPC| Personaje no jugable. | 
 UML | Lenguaje Unificado de Modelado. | 
+Interfaz | Representación de la interacción humano-máquina. | 
 
 **Audiencia objetivo y sugerencias de lectura**
 
@@ -72,6 +73,10 @@ Este documento está dirigido a desarrolladores involucrados en la creación del
 - Flowchart maker & online diagram software. (s/f). Diagrams.net. Recuperado el 4 de octubre de 2024, de https://app.diagrams.net/
 - O365devx. (2023). Convenciones de documento (VBA). Microsoft Learn. https://learn.microsoft.com/es-es/office/vba/language/concepts/getting-started/document-conventions-visual-basic-for-applications
 - Atlassian. (s/f). Alcance del proyecto: cómo puede ahorrar tiempo la gestión del alcance del proyecto. Atlassian. Recuperado el 4 de octubre de 2024, de https://www.atlassian.com/es/work-management/project-management/project-
+- Blog - Create UML class diagrams. (s. f.). https://www.drawio.com/blog/uml-class-diagrams
+- Blog - Create C4 models and diagrams. (s. f.). https://www.drawio.com/blog/c4-modelling
+- AJ&Smart. (2020). Figma UI Design Tutorial: Get Started in Just 24 Minutes! [Vídeo]. YouTube. https://www.youtube.com/watch?v=FTFaQWZBqQ8
+- Oliver Puente. (2022). Figma tutorial para principiantes | 👋Aprende Diseño Web UI de manera simple a través de Figma [Vídeo]. YouTube. https://www.youtube.com/watch?v=bIK7PIdlLTU
 
 # Descripción del proyecto
 
