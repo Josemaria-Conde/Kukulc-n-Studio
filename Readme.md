@@ -126,7 +126,7 @@ El videojuego pertenece al género de administración y estrategia, en el que se
  
 - RF-014: El usuario podrá agregar como amigos a otros usuarios que tengan creado un perfil dentro del juego.
 
-- RF-015: El programa permitira cambiar el color del fondo entre blanco, gris y negro.
+- RF-015: El programa permitira cambiar el color del fondo entre blanco y negro.
 
 - RF-016: El juego contara con un apartado donde se puedan consultar las estadisticas del jugador (horas jugadas, monedas recolectadas, cantidad de rutas, camiones, etc.)
 
