@@ -1,6 +1,6 @@
 # Diagrama UML
 
-![Diagrama UML](/images/DiagramaUML_MauricioDelazaro.png)
+![Diagrama UML](/src/assets/images/diagramas_uml/uml_mauricio.png)
 
 # Descripción de clases
 
