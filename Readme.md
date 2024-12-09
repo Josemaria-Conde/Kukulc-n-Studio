@@ -86,6 +86,12 @@ El videojuego pertenece al género de administración y estrategia, en el que se
 
 **Perspectiva del producto**
 
+El videojuego está diseñado para personas de todas las edades, especialmente para aquellos que buscan una actividad entretenida para ocupar su tiempo libre y disminuir el aburrimiento. Esto incluye tanto a niños como a adultos que se encuentran en situaciones donde necesitan una distracción ligera pero estimulante.
+
+El producto no solo ofrece entretenimiento, sino que también brinda la oportunidad de desarrollar habilidades clave de manera intuitiva. Al tomar decisiones estratégicas relacionadas con la gestión de rutas y el funcionamiento del sistema de transporte, los jugadores mejoran sus capacidades de organización, planificación y resolución de problemas.
+
+El enfoque principal es proporcionar una experiencia accesible y relajante, que permita a los jugadores disfrutar sin necesidad de una curva de aprendizaje pronunciada, al mismo tiempo que se sienten recompensados por sus elecciones inteligentes. De este modo, el juego equilibra la diversión y el desarrollo de habilidades, contribuyendo al fortalecimiento cognitivo del usuario mientras combate el aburrimiento.
+
 **Características del producto**
 
 **Clases y características del usuario**
