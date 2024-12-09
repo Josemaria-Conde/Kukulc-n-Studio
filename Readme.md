@@ -33,6 +33,7 @@ RF-000   | Hace referencia a un requerimiento funcional y en qué orden está.  
 RNF-000    | Hace referencia a un requerimiento no funcional y en qué orden está.    |
 NPC| Personaje no jugable. | 
 UML | Lenguaje Unificado de Modelado. | 
+Interfaz | Representación de la interacción humano-máquina. | 
 
 **Audiencia objetivo y sugerencias de lectura**
 
@@ -72,6 +73,10 @@ Este documento está dirigido a desarrolladores involucrados en la creación del
 - Flowchart maker & online diagram software. (s/f). Diagrams.net. Recuperado el 4 de octubre de 2024, de https://app.diagrams.net/
 - O365devx. (2023). Convenciones de documento (VBA). Microsoft Learn. https://learn.microsoft.com/es-es/office/vba/language/concepts/getting-started/document-conventions-visual-basic-for-applications
 - Atlassian. (s/f). Alcance del proyecto: cómo puede ahorrar tiempo la gestión del alcance del proyecto. Atlassian. Recuperado el 4 de octubre de 2024, de https://www.atlassian.com/es/work-management/project-management/project-
+- Blog - Create UML class diagrams. (s. f.). https://www.drawio.com/blog/uml-class-diagrams
+- Blog - Create C4 models and diagrams. (s. f.). https://www.drawio.com/blog/c4-modelling
+- AJ&Smart. (2020). Figma UI Design Tutorial: Get Started in Just 24 Minutes! [Vídeo]. YouTube. https://www.youtube.com/watch?v=FTFaQWZBqQ8
+- Oliver Puente. (2022). Figma tutorial para principiantes | 👋Aprende Diseño Web UI de manera simple a través de Figma [Vídeo]. YouTube. https://www.youtube.com/watch?v=bIK7PIdlLTU
 
 # Descripción del proyecto
 
@@ -98,7 +103,7 @@ El videojuego pertenece al género de administración y estrategia, en el que se
 
 # Funcionales
 
-- RF-001: Para poder acceder completamente a las funciones, se debe iniciar sesión con un usuario y contraseña. De esta manera podremos ayudar a la creación y personalización de perfiles y a la seguridad de la cuenta.
+- RF-001: El usurio puede iniciar sesión con un usuario y contraseña. De esta manera podremos ayudar a la creación y personalización de perfiles y a la seguridad de la cuenta.
 
 - RF-002: El juego no contendrá sonidos o imágenes capaces de asustar a los más pequeños. Tampoco contendrá lenguaje inapropiado, es decir, lo que se mostrará dentro de la aplicación deberá contener un lenguaje sano para todas las edades, esto involucra: texto en la interfaz, texto de los personajes no jugables (NPCs), etc.
 
@@ -126,7 +131,7 @@ El videojuego pertenece al género de administración y estrategia, en el que se
  
 - RF-014: El usuario podrá agregar como amigos a otros usuarios que tengan creado un perfil dentro del juego.
 
-- RF-015: El programa permitira cambiar el color del fondo entre blanco, gris y negro.
+- RF-015: El programa permitira cambiar el color del fondo entre blanco y negro.
 
 - RF-016: El juego contara con un apartado donde se puedan consultar las estadisticas del jugador (horas jugadas, monedas recolectadas, cantidad de rutas, camiones, etc.)
 
@@ -139,13 +144,19 @@ El videojuego pertenece al género de administración y estrategia, en el que se
 - RF-020: El juego debe tener diferentes tipos de camiones, por ejemplo, a gasolina, eléctricos, híbridos, etc.
 Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad específica y un límite de capacidad.
 
-- RF-021: Las rutas tendrán una distancia (cuánto recorre esa ruta), un nombre, horario, paradas, camiones y de ellas se obtendran monedas. Cada que ingrese un pasajero obtendrá monedas a través de la tarifa y las rutas tienen un límite de camiones.
+- RF-021: Las rutas tendrán una distancia (cuánto recorre esa ruta), un nombre, horario, paradas, camiones, color y de ellas se obtendran monedas. Cada que ingrese un pasajero obtendrá monedas a través de la tarifa y las rutas tienen un límite de camiones.
 
 - RF-022: Los pasajeros serán NPCs y harán uso de los camiones, estos pueden ser de diferentes tipos, por ejemplo, discapacitado, estudiante o general. Dependiendo del tipo, tendrá una tarifa diferente en el camióm. Cada pasajero tendrá una ruta, destino y parada en concreto.
 
 - RF-023: Los mapas deben tener un nombre para su identifación, cada mapa debe tener rutas y un límite para ello, así como música de ambientación. Los mapas dependerán del nivel del perfil, mientras se suba de nivel, se desbloquearán los mapas.
 
-- RF-024: El color predeterminado de la interfaz debe ser verde con blanco.
+- RF-024: El color base de la interfaz del juego debe ser azul "1E90FF" para el modo normal y para el modo oscuro debe ser azul "1A5276".
+
+- RF-025: El programa debe incluir una pantalla de carga al iniciar.
+
+- RF-026: El programa debe incluir un botón de "Salir" en el menú principal. 
+
+- RF-027: El programa debe incluir soporte para dos idiomas principales, español e inglés.
 
 # No funcionales
 
@@ -157,23 +168,21 @@ Cada tipo de camión consumirá una cantidad de energía, tendrá una velocidad 
 
 - RNF-005: El tiempo de carga inicial del juego no debe exceder los 5 segundos en dispositivos que cumplan con los requisitos mínimos
 
-- RNF-006: El programa debe ser capaz de ejecutarse en varios idiomas, siendo los principales español e inglés, pero con opción de agregar otros idiomas en el futuro.
+- RNF-006: La información del usuario, como credenciales y progreso en el juego, debe estar protegida mediante encriptación, garantizando la seguridad y privacidad.
 
-- RNF-007: La información del usuario, como credenciales y progreso en el juego, debe estar protegida mediante encriptación, garantizando la seguridad y privacidad.
+- RNF-007: El programa debe adaptarse a diferentes tamaños de pantalla y resoluciones, garantizando una experiencia optima tanto en smarphones de gama baja como en tablets de mayor capacidad.
 
-- RNF-008: El programa debe adaptarse a diferentes tamaños de pantalla y resoluciones, garantizando una experiencia optima tanto en smarphones de gama baja como en tablets de mayor capacidad.
+- RNF-008: El programa contara con actualizaciones en un plazo de tiempo medio, siendo aproximadamente de 1 a 3 meses, variando en la cantidad cambios que se hagan, como la solucion a futuros errores que se puedan presentar como nuevo contenido para el juego.
 
-- RNF-009: El programa contara con actualizaciones en un plazo de tiempo medio, siendo aproximadamente de 1 a 3 meses, variando en la cantidad cambios que se hagan, como la solucion a futuros errores que se puedan presentar como nuevo contenido para el juego.
+- RNF-09: La interfaz gráfica de usuario deberá estar adaptada para uso táctil. 
 
-- RNF-010: La interfaz gráfica de usuario deberá estar adaptada para uso táctil. 
+- RNF-010: El juego será compatible con versiones de Sistema Operativo Android 6.0 y posteriores.
 
-- RNF-013: El juego será compatible con versiones de Sistema Operativo Android 6.0 y posteriores.
+- RNF-011: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
 
-- RNF-014: El juego sera capa de escalar copn la pantalla del sipositivo para evitar franjas negras en los bordes.
+- Rnf-012: El juego no debera de necesitar internet para inicalizar.
 
-- Rnf-015: El juego no debera de necesitar internet para inicalizar.
+- RNF-013: El juego debe poder activar o desactivar la música y efectos de sonido desde el menú de configuración.
 
-- RNF-016: El juego debe poder activar o desactivar la música y efectos de sonido desde el menú de configuración.
-
-- RNF-017: El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz. 
+- RNF-014: El juego debe permitir al usuario ajustar el brillo de la pantalla dentro de la aplicación para mejorar la visibilidad en diferentes condiciones de luz. 
 </div>
