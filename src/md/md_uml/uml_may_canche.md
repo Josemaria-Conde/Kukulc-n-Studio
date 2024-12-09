@@ -3,7 +3,7 @@
 ---
 El siguiente diagrama de clases presenta el funcionamiento del sistema.
 
-![Diagrama UML](/Diagrama-christopher/Diagrama-UML/Diagrama-UML.jpeg)
+![Diagrama UML](../../assets/images/diagramas_uml/uml_may_canche.jpeg)
 
 ---
 ## Explicación del diagrama
