@@ -1,6 +1,6 @@
 # Diagrama de clases UML por José Luis Basulto Cámara
 
-![Diagrama UML](/images/DiagramaFIS_Basulto.drawio.png)
+![Diagrama UML](/images/Diagrama_Fis_Basulto.drawio.png)
 
 # Descripción
 
