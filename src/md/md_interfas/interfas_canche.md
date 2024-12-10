@@ -1,3 +1,10 @@
+## Figma
+**Link:** https://www.figma.com/design/3y3hPShmafcBKylfxHGpoV/Juego?node-id=0-1&t=qAYk1DRKTDOrW4D6-1https://www.figma.com/design/3y3hPShmafcBKylfxHGpoV/Juego?node-id=0-1&t=qAYk1DRKTDOrW4D6-1
+
+---
+
+**Previsualización**
+
 # **Pantalla de Carga**
 
 ### **Pantallas en Español**
